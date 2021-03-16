@@ -1,0 +1,13 @@
+/*.opensdf
+/*.sdf
+/*.suo
+[Dd]ebug/
+[Rr]elease/
+/Deploy
+packages/
+__vm/
+.vs
+bin/
+obj/
+/ipch
+*.user
